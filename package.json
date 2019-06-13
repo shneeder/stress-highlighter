@@ -1,0 +1,11 @@
+{
+  "name": "stress-highlighter",
+  "version": "1.0.0",
+  "description": "Package for retrieving of the stress for given text in English.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "shneeder",
+  "license": "ISC"
+}
